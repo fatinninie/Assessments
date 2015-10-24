@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Runs\ the\ client\ as\ an\ application.\ \ First\ it\ displays\ a\ dialog\r\n\ box\ asking\ for\ the\ IP\ address\ or\ hostname\ of\ a\ host\ running\r\n\ the\ date\ server,\ then\ connects\ to\ it\ and\ displays\ the\ date\ that\r\n\ it\ serves.\r\n
+numComments=1
